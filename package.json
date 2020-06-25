@@ -1,0 +1,23 @@
+{
+  "name": "thebackyardbot",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src=\"https://benkyd.co.uk/a/IUXHVO05.jpg\" height=\"130\">\r </p>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "debug": "nodemon",
+    "production": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plane000/TheBackyardBot.git"
+  },
+  "author": "Ben Kyd <benjaminkyd@gmail.com> (https://benkyd.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plane000/TheBackyardBot/issues"
+  },
+  "homepage": "https://github.com/plane000/TheBackyardBot#readme"
+}
