@@ -1,8 +1,13 @@
-# TheBackyardBot
+<p align="center">
+    <img src="https://benkyd.co.uk/a/IUXHVO05.jpg" height="130">
+</p>
 
-[![Build Status](https://travis-ci.org/plane000/TheBackyardBot.svg?branch=master)](https://travis-ci.org/plane000/TheBackyardBot)
+<p align="center">
+  <a href="https://travis-ci.org/plane000/TheBackyardBot"> <img src="https://travis-ci.org/plane000/TheBackyardBot.svg?branch=master" /> </a>
+  <a href="https://discord.gg/DqPbGgq"> <img src="https://img.shields.io/discord/454294034308005898?logo=discord"> </a>
+</p>
 
-![Logo](https://benkyd.co.uk/a/IBglLvj9.jpg)
+---
 
 This is the official repository for the bot maintained by the discord server of The Backyard Scientist.
 
