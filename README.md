@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.org/plane000/TheBackyardBot"> <img src="https://travis-ci.org/plane000/TheBackyardBot.svg?branch=master" /> </a>
+  <a href="https://travis-ci.org/benkyd/TheBackyardBot"> <img src="https://travis-ci.org/benkyd/TheBackyardBot.svg?branch=master" /> </a>
   <a href="https://discord.gg/DqPbGgq"> <img src="https://img.shields.io/discord/454294034308005898?logo=discord"> </a>
 </p>
 
